@@ -1,0 +1,7 @@
+[build]
+publish = "docs"  # 替换为你的构建输出目录（如dist、build、public等）
+
+[[redirects]]
+from = "/*"
+to = "/docs/index.html"  # 替换为你的实际路径
+status = 200
