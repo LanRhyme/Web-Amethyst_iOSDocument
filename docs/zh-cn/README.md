@@ -53,3 +53,12 @@ tipa版本nightly链接https://nightly.link/AngelAuraMC/Amethyst-iOS/workflows/d
 github链接的下载方式：
 选择打勾的第一个，然后点进去
 在里面点击文件进行下载
+--------
+## 改版下载项目
+修改版初版发布
+！尽量不要传播
+更新日志：
+修改下载源为BMCLAPI，移除正版验证
+
+！有能力请尽量支持正版
+https://github.com/LanRhyme/Amethyst-iOS-RL/actions/runs/16942325833
