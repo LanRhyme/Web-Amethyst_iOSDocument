@@ -4,6 +4,7 @@
 > ios18内存问题的一种解决方案：https://github.com/hugeBlack/GetMoreRam
 
 > [#必看]崩溃/闪退问题解决方法
+
 1.遇到崩溃后首先排查自己使用的java版本和渲染器是否正确
 
 2.若没有问题清查看#pojav无法使用的模组的置顶公告
