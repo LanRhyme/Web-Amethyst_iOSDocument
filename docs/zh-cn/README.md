@@ -50,7 +50,6 @@ Amethyst的更新与下载：
 下载链接：
 https://nightly.link/AngelAuraMC/Amethyst-iOS/workflows/development/main/org.angelauramc.amethyst-ios.ipa.zip
 tipa版本nightly链接https://nightly.link/AngelAuraMC/Amethyst-iOS/workflows/development/main/org.angelauramc.amethyst-ios-trollstore.tipa.zip
--------------
 github链接的下载方式：
 选择打勾的第一个，然后点进去
 在里面点击文件进行下载
