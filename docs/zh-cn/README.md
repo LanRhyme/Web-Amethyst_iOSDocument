@@ -1,10 +1,11 @@
 # 快速开始
 <details><summary>启动器介绍</summary>
-1. 项目概述
+
+> 1. 项目概述
 
 Amethyst-iOS(原PojavLauncher)是一款专为《Minecraft: Java Edition》设计的跨平台启动器，支持iOS/iPadOS和Android设备。它基于开源项目Boardwalk开发，旨在让移动端用户也能流畅运行Java版《我的世界》，包括模组加载和版本管理功能。
 
-2. 核心功能
+> 2. 核心功能
 
 - 多版本支持：覆盖从早期测试版（如rd-132211）到最新快照版（如1.21）的所有Java版游戏版本。
 - 模组兼容性：支持Forge、Fabric、OptiFine和Quilt等主流模组加载器，用户可自由安装和管理模组。
@@ -13,7 +14,7 @@ Amethyst-iOS(原PojavLauncher)是一款专为《Minecraft: Java Edition》设计
    - 集成即时编译（JIT）技术提升性能，需通过TrollStore等工具启用。
 - 性能适配：针对越狱设备和TrollStore优化，降低延迟并提升稳定性。
 
-3. 安装与兼容性
+> 3. 安装与兼容性
 
 - 设备要求：需运行iOS 14.0及以上系统，推荐iPhone XS及以上机型或第10代iPad及以上平板以获得最佳体验。
 - 安装方式：
@@ -21,7 +22,7 @@ Amethyst-iOS(原PojavLauncher)是一款专为《Minecraft: Java Edition》设计
    - GitHub官方仓库提供下载链接（需手动安装依赖环境）。
 - JIT启用：部分设备需借助TrollStore自动启用JIT，否则可能影响运行速度。
 
-4. 特色亮点
+> 4. 特色亮点
 
 - 用户友好设计：
    - 一键安装模组、材质包和地图，简化操作流程。
@@ -29,7 +30,7 @@ Amethyst-iOS(原PojavLauncher)是一款专为《Minecraft: Java Edition》设计
 - 开源社区驱动：由活跃开发者社区维护，持续更新功能并修复问题。
 - 教育与应用场景：适合模组开发测试、课堂教学（如编程与游戏设计）及移动端娱乐。
 
-5. 注意事项
+> 5. 注意事项
 
 - 系统限制：非越狱设备需依赖侧载工具，且可能存在签名失效风险（需定期重装）。
 - 安全性：建议从官方GitHub或可信站点下载，避免第三方修改版本的安全隐患。
