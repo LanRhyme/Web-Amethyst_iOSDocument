@@ -1,5 +1,5 @@
 # 快速开始
-
+<details><summary>启动器介绍</summary>
 1. 项目概述
 
 Amethyst-iOS(原PojavLauncher)是一款专为《Minecraft: Java Edition》设计的跨平台启动器，支持iOS/iPadOS和Android设备。它基于开源项目Boardwalk开发，旨在让移动端用户也能流畅运行Java版《我的世界》，包括模组加载和版本管理功能。
@@ -37,3 +37,20 @@ Amethyst-iOS(原PojavLauncher)是一款专为《Minecraft: Java Edition》设计
 
 如需进一步了解安装教程或功能细节，可参考Amethyst的GitHub仓库或相关社区论坛。
 
+</details>
+
+## 下载项目
+
+Amethyst的更新与下载：
+为了保证游玩时不会出各种问题，请保持更新
+最新版下载链接：
+1.Github下载:https://github.com/AngelAuraMC/Amethyst-iOS/actions
+2.[推荐]nightly直接自动获取最新开发版（不用挂梯子和登录）（你每次进入此链接时获取到的永远是最新的主线开发版）
+原理视频链接:https://www.bilibili.com/video/BV16E421K72H
+下载链接：
+https://nightly.link/AngelAuraMC/Amethyst-iOS/workflows/development/main/org.angelauramc.amethyst-ios.ipa.zip
+tipa版本nightly链接https://nightly.link/AngelAuraMC/Amethyst-iOS/workflows/development/main/org.angelauramc.amethyst-ios-trollstore.tipa.zip
+-------------
+github链接的下载方式：
+选择打勾的第一个，然后点进去
+在里面点击文件进行下载
